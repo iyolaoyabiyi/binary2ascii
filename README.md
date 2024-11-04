@@ -44,15 +44,13 @@ The converter validates input for:
 ## 🗂️ Project Structure
 
 ```
-binary-converter/
+binary2ascii/
 ├── index.html
 ├── js/
-│   └── main.js
-├── scss/
+│   └── script.js
 └── css/
-    ├── styles.css
-    ├── styles.scss
-    └── _variables.scss
+    ├── style.css
+    └── style.scss
 ```
 
 ## 🎯 Project Background
@@ -82,4 +80,4 @@ Feel free to:
 This project is open source and available under the MIT License.
 
 ---
-Made with 💻 by a binary enthusiast for the GitHubStreak community
+Made with 💻 by Iyola Oyabiyi for the GitHubStreak community.
