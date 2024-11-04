@@ -39,7 +39,6 @@ textarea {
   min-height: 100px;
   margin-bottom: 1rem;
 }
-
 textarea:focus {
   outline: none;
   border-color: #005f5f;
@@ -55,7 +54,6 @@ button {
   font-size: 1rem;
   transition: background-color 0.2s;
 }
-
 button:hover {
   background-color: #001010;
 }
